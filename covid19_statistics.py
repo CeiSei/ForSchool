@@ -24,6 +24,7 @@ norm_covid = normalize_data(n_covid, n_people, 1000000) # The new cases per 1 mi
 # Print population by region
 print('### Korean Population by Region')
 print('* Total population:', sum_people)
+print('')
 print('| Region | Population | Ratio (%) |')
 print('| ------ | ---------- | --------- |')
 for idx, pop in enumerate(n_people):
@@ -33,6 +34,8 @@ print('')
 
 # TODO: Print COVID-19 new cases by region
 print('### COVID-19 new cases by region')
+print('* Total new cases:', sum_covid)
+print('')
 print('| Region | New cases |')
 print('| ------ | ---------- |')
 for idx, pop in enumerate(n_people):

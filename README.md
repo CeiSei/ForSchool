@@ -1,5 +1,6 @@
 ### Korean Population by Region
 * Total population: 51669716
+
 | Region | Population | Ratio (%) |
 | ------ | ---------- | --------- |
 | Seoul | 9550227 | 37.6 |
@@ -20,8 +21,9 @@
 | Jeju | 675883 | 0.3 |
 | Sejong | 365309 | 0.2 |
 
-
 ### COVID-19 new cases by region
+* Total new cases: 1714
+
 | Region | New cases |
 | ------ | ---------- |
 | Seoul | 644 |
