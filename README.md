@@ -20,6 +20,7 @@
 | Jeju | 675883 | 0.3 |
 | Sejong | 365309 | 0.2 |
 
+
 ### COVID-19 new cases by region
 | Region | New cases |
 | ------ | ---------- |
