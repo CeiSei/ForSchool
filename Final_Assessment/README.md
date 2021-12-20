@@ -50,6 +50,10 @@
 5. 문단 해석을 마치면 '파일명_translated.txt' 파일이 main.py가 위치한 디렉토리에 저장되고 프로그램은 자동으로 메뉴로 돌아갑니다.
 
 
+## 참고자료.
+
+1. Google Translation API (googletrans downloaded by pip. -> python -m pip install -U googletrans)
+
 ## 라이센스.
 
 Apache 라이센스 버전 2.0(이하 "라이센스")에 따라 라이센스가 부여되며 라이센스를 준수하지 않는 한 이 파일을 사용할 수 없습니다.
