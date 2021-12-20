@@ -52,7 +52,7 @@
 
 ## 참고자료.
 
-1. Google Translation API (googletrans downloaded by pip. -> python -m pip install -U googletrans)
+1. Google Translation API (googletrans downloaded by pip. -> python -m pip install -U googletrans==4.0.0-rc1)
 
 ## 라이센스.
 
